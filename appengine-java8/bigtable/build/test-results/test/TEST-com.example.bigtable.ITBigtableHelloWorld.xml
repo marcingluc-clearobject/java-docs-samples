@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.bigtable.ITBigtableHelloWorld" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-29T21:02:55" hostname="MarcinGlucsMBP" time="2.557">
+  <properties/>
+  <testcase name="bigtable_test" classname="com.example.bigtable.ITBigtableHelloWorld" time="2.557"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (com.google.cloud.bigtable.hbase.BigtableOptionsFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>
